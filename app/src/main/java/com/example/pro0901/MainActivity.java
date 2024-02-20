@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     EditText eText;
     Button btn;
 
-    String stringUrl;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
